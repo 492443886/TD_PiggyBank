@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "66183911274",
+    "firebase_url": "https://fir-td-2f0d8.firebaseio.com",
+    "project_id": "fir-td-2f0d8",
+    "storage_bucket": "fir-td-2f0d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66183911274:android:f08a586809e07506",
+        "android_client_info": {
+          "package_name": "com.example.gvoigt.tdpiggybank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66183911274-b69oarvq4mt1avofmrokc3646jg8vqh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSX7mbpvX4_K3TvCDTYvDe2pLB9zcsjHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

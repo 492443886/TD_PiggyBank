@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TDPiggyBank</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to create pig -->
+    <string name="create_pig">Create Pig</string>
+    <string-array name="goals">
+        <item>50.00</item>
+        <item>100.00</item>
+        <item>250.00</item>
+        <item>500.00</item>
+        <item>1000.00</item>
+        <item>10000.00</item>
+        <item>100000.00</item>
+        <item>1000000.00</item>
+    </string-array>
+    <string name="private_pig">Private</string>
+    <string name="select_goal">Select a goal amount for your Pig:</string>
+    <string name="select_deadline">Select a deadline date for your Pig:</string>
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username or Access Card</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="forgot"><u>Forgot your username or password?</u></string>
+    <string name="td_logo">TD Logo</string>
+    <string name="piggy_logo">Piggy Bank</string>
+    <!-- Strings related to map -->
+    <string name="title_activity_maps">Map</string>
+</resources>
